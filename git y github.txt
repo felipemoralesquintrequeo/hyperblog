@@ -1,0 +1,11 @@
+mkdir crear carpeta
+touch crear archivo vacio.text
+cat vacio.text muestra contenido del archivo
+rm vacio.text remueve archivo
+ls mostrar archivos de carpeta
+pwd mostrar ubicacion
+cd ir a directorio
+git add . hhistoria.txt para agregar archivo al la ram stage
+git status muestra los estados de llos archivo en carpeta stage
+git rm --catch saca el archivo de la ram stage
+git commit envia loos cambios al repositorio master
