@@ -9,3 +9,12 @@ git add . hhistoria.txt para agregar archivo al la ram stage
 git status muestra los estados de llos archivo en carpeta stage
 git rm --catch saca el archivo de la ram stage
 git commit envia loos cambios al repositorio master
+orden git add- commit-
+git log archivo muestra historia cambos archivo
+cat archivo mestra en pantalla de comandos el archivo.
+git dif linea de cambio de log + linea cambio log.
+git push enviar al repositorio web 
+git fetch trae al repositorio local
+git merge traer al archivo local
+git pull copia repocitorio local y repositorio
+
