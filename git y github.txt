@@ -17,4 +17,9 @@ git push enviar al repositorio web
 git fetch trae al repositorio local
 git merge traer al archivo local
 git pull copia repocitorio local y repositorio
+ramas o braches
+
+git checkout nombre master
+se mueve de rama e rama
+
 
