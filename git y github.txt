@@ -21,5 +21,7 @@ ramas o braches
 
 git checkout nombre master
 se mueve de rama e rama
+16
+
 
 
