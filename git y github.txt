@@ -21,7 +21,14 @@ ramas o braches
 
 git checkout nombre master
 se mueve de rama e rama
-16
+16 solucionar conflictos.
+18
+19
+20
+eval $(ssh-agent -s) chekea q este corriendo la lave de seguridad
+ssh-add~/.ssh/id_rsa
 
+clave git hub :Sedsk830
+21
 
 
